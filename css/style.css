@@ -1,0 +1,201 @@
+body{
+	background-color:#000; 
+}
+
+/*-------------------------------header 1---------------------*/
+
+.jumbotron{
+	height: 100%;
+	width: 100%;
+	/*background-color: red;*/
+	background-image: url("../images/jumbo.png")!important;
+    background-repeat:no-repeat;
+    /*background-size:contain;*/
+    /*background-position:center;*/
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 60px !important;
+    background-color: #fff !important;
+
+}
+/*-------------------------------nav---------------------*/
+.menu{
+	margin-right: 5%;
+	margin-left: 5%;
+	height: 10%;
+	background-color: #FFF;
+}
+
+.logo p{
+	padding: 6%;
+	color: #17d0ac;
+}
+
+nav ul{
+	text-align: right;
+	text-transform: uppercase;
+}
+nav ul li{
+	padding: 2.5%;
+	display: inline-block;
+}
+nav ul li a{
+	/*padding: 5%;*/
+	color: #b6b5b6;
+}
+nav ul li a:active{
+	color: #282528;
+}
+nav ul li a:hover{
+	text-decoration: none;
+	color: #282528;
+}
+
+/*-------------------------------header 2---------------------*/
+
+.intro-mobileapp{
+	/*background-color: green;*/
+	/*width: 50%;*/
+	height: 20%;
+	margin: 5%;
+
+}
+
+.intro{
+	/*background-color: red;*/
+	/*margin-left: 5%;*/
+	/*text-align: left;*/
+}
+.intro h3{
+	text-align: left;
+	font-family: 'Raleway';
+	font-size: 43px;
+	color: #fff;
+}
+.intro p{
+	color: #fff;
+	font-family: 'Open Sans' 600;
+}
+.image{
+	/*float: left; */
+	/*background-color: #fff;*/
+}
+.image img{
+	height: 550px;
+	margin-left: 20%;
+}
+#points{
+	font-family: 'Open Sans' 400;
+	padding-top: 1%;
+	font-size: 16px;
+}
+
+#download{
+	text-align: center;
+	margin: 3%;
+	margin-top: 13%;
+	color: #fff;
+	border-radius: 3px;
+	width: 214px;
+	height: 50px;
+	background-color: #17d0ac;
+}
+#download a{
+	vertical-align: top;
+	font-size: 22px;
+	margin: 3%;
+	color: #fff;
+}
+#download a:hover{
+	text-decoration: none;
+}
+#button{
+	padding: 6%;
+}
+
+/*-------------------------------key features---------------------*/
+#features{
+	text-transform: uppercase;
+	font-family: 'Raleway';
+	font-weight: 700;
+	font-size: 28px;
+	color: #17d0ac;
+	text-align: center;
+}
+/*#features:after{
+	font-size: 16px;
+	vertical-align: bottom;
+	content: '_________________/ _______________'
+}*/
+hr.sp-line {
+	padding: 0px;
+	margin:0px;
+    border: 0;
+    height: 1px;
+    width: 200px;
+    margin-left: 42%;
+    /*text-align: center;*/
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+#left{
+	margin-left: 5%;
+}
+.row{
+	background-color: green;
+	padding-top: 10%;
+}
+.lines{
+	text-align: center;
+	font-family: 'Open Sans';
+	font-size: 16px;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-top: 5%;
+}
+h4{
+	margin-top: 3%;
+	color: #282528;
+}
+.fa-user, .fa-map-marker, .fa-thumbs-o-up{
+	margin-top: 4%;
+	color: #17d0ac;
+}
+.desc{
+	font-family: 'Open Sans';
+	color: #797779;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
