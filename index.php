@@ -53,30 +53,34 @@
     </div>
     
     <div class="col-md-4" id="left">
-       
-            <div class="col-md-4 col-md-offset-0 text-right">
-               <i class="fa fa-user fa-3x"></i>
-            </div>
-           <div class="col-md-8 text-left">
-            <h4>Aenean cursus</h4>
-            <p class="desc">Ut malesuada condimentum aliquam. Sed volutpat luctus nisi tristique consequat.</p>
-           </div>
         <div class="row">
-           <div class="col-md-4 col-md-offset-0 text-right">
-               <i class="fa fa-map-marker fa-3x"></i>
-            </div>
-           <div class="col-md-8 text-left">
-            <h4>Aenean cursus</h4>
-            <p class="desc">Ut malesuada condimentum aliquam. Sed volutpat luctus nisi tristique consequat.</p>
-           </div>
-       </div>
-           <div class="col-md-4 col-md-offset-0 text-right">
-               <i class="fa fa-thumbs-o-up fa-3x"></i>
-            </div>
-           <div class="col-md-8 text-left">
-            <h4>Aenean cursus</h4>
-            <p class="desc">Ut malesuada condimentum aliquam. Sed volutpat luctus nisi tristique consequat.</p>
-           </div>
+                <div class="col-md-4 col-md-offset-0 text-right">
+                   <i class="fa fa-user fa-3x"></i>
+                </div>
+               <div class="col-md-8 text-left">
+                <h4>Aenean cursus</h4>
+                <p class="desc">Ut malesuada condimentum aliquam. Sed volutpat luctus nisi tristique consequat.</p>
+               </div>
+        </div>
+        <div class="row">
+               <div class="col-md-4 col-md-offset-0 text-right">
+                   <i class="fa fa-map-marker fa-3x"></i>
+                </div>
+               <div class="col-md-8 text-left">
+                <h4>Aenean cursus</h4>
+                <p class="desc">Ut malesuada condimentum aliquam. Sed volutpat luctus nisi tristique consequat.</p>
+               </div>   
+        </div>
+        <div class="row">
+               <div class="col-md-4 col-md-offset-0 text-right">
+                   <i class="fa fa-thumbs-o-up fa-3x"></i>
+                </div>
+               <div class="col-md-8 text-left">
+                <h4>Aenean cursus</h4>
+                <p class="desc">Ut malesuada condimentum aliquam. Sed volutpat luctus nisi tristique consequat.</p>
+               </div>
+        </div>
+
     </div>
 
     <div class="col-md-4">
